@@ -101,7 +101,7 @@ class TicTacToe
   def play 
     while !over?
       turn 
-        break if over?
+        # break if over?
     end
   end 
   
